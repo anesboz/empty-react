@@ -19,11 +19,9 @@ body {
 #root {
   height: 100vh;
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   background-color: white;
-  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
 }
 
 /* RGB */
