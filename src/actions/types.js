@@ -1,0 +1,1 @@
+export const SWITCH_NIGHT_DAY = "SWITCH_NIGHT_DAY";
